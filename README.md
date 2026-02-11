@@ -47,7 +47,6 @@ git pull origin main --recurse-submodules
 Please read these, Phyrebird *will* crash if they’re ignored:
 
 * **You must add at least one song** to Phyrebird before playing, or the game will crash.
-* Run the game in **Fullscreen**, **or** switch the renderer to **OpenGL** instead of DirectX.
 * Make sure to **calibrate your offset** for proper input timing on your system.
 
 ## Credits
