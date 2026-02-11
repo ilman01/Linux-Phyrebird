@@ -56,3 +56,6 @@ Please read these, Phyrebird *will* crash if they’re ignored:
 
 * **Wine build (wine-11.1-amd64-wow64)**
   [https://github.com/Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds)
+  
+* **DXVK build (Version 2.7.1)**
+  [https://github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk)
