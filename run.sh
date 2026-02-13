@@ -12,6 +12,7 @@ DXVK_DIR="$BASE_DIR/dxvk"
 export WINEPREFIX="$PREFIX"
 export WINEARCH=win64
 export WINEDLLOVERRIDES="mscoree,mshtml="
+export DXVK_FRAME_RATE=0
 export WINEESYNC=1
 export WINEFSYNC=1
 
